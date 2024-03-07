@@ -1,0 +1,2 @@
+Markov Chain
+Chapman-Kolmogorov’s equation
